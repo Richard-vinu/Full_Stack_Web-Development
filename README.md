@@ -31,8 +31,20 @@ PATCH is a method of modifying resources where the client sends partial data tha
 ```What is MongoDB Query?```
 
 MongoDB Query is a way to get the data from the MongoDB database. MongoDB queries provide the simplicity in process of fetching data from the database, it’s similar to SQL queries in SQL Database language. While performing a query operation, one can also use criteria or conditions which can be used to retrieve specific data from the database. <br>
-[a link for detail](https://www.geeksforgeeks.org/what-is-a-mongodb-query/#:~:text=MongoDB%2C%20the%20most%20popular%20open,format%20just%20like%20JSON%20format.)
+[a link for detail](https://www.geeksforgeeks.org/what-is-a-mongodb-query/#:~:text=MongoDB%2C%20the%20most%20popular%20open,format%20just%20like%20JSON%20format.)<br>
+
 ```What is Pagination in mongoDB ?```
 
 In MongoDB, the pagination phenomenon is used to get an output that can be easily understandable.
 Pagination is a procedure to display large disarranged output in a page format. With the help of pagination, the result can be retrieved faster as compared to the general methods of MongoDB.
+
+```The setTimeout() Method and setInterval()```
+
+setTimeout(function, milliseconds)<br>
+  *Executes a function, after waiting a specified number of milliseconds.
+
+setInterval(function, milliseconds)<br>
+  *Same as setTimeout(), but repeats the execution of the function continuously.<br>[a link for detail](https://www.w3schools.com/js/js_timing.asp)<br>
+
+
+
