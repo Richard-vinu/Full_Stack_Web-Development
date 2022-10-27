@@ -5,13 +5,34 @@ Tech: JavaScript::node.js::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 Hi guys.. Hope this content helps, You can Also contribute to this repo:)
 ```
-``FindOne()```
+``FindOne()``
 
-=>The findOne() returns first document if query matches otherwise returns null
+=>To select data from a collection in MongoDB, we can use the findOne() method.
+  The findOne() method returns the first occurrence in the selection.
+  The first parameter of the findOne() method is a query object.
+  The findOne() returns first document if query matches otherwise returns null
 
 ``find()``
 
-==>
+Syntax:find(query, projection)<br>
+=>We can fetch a specific record using the Find method, which has two parameters. 
+If these two parameters are omitted, the find method will return all of the documents in the MongoDB collection.
+
+``findById()``
+
+findById returns the document where the _id field matches the specified id. If the document is not found, the function returns null.<br>
+In MongoDB, all documents are unique because of the _id field or path that MongoDB uses to automatically create a new document.<br>
+
+For this reason, finding a document is easy with Mongoose. To find a document using its _id field, we use the findById() function.
+
+
+``findOneAndUpdate()``
+
+Updates a single document based on the filter and sort criteria.
+The findOneAndUpdate() function is used to find a matching document and update it according to the update arg, passing any options, and returns the found document (if any) to the callback.
+
+
+
 
 
 ``What is async await?``
