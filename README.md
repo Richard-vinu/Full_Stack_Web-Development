@@ -1,6 +1,10 @@
 # IMP_Q-A
-you can contribute to this repo ..this repo consists of important questions with answers on JS,NodeJs,MongoDB<br>
-```note``` if find a mistake please feel free to raise an issue 
+```ruby
+Note: 'if you notice any mistake Please feel free to raise an issue'
+Hi guys.. Hope this content helps, You can Also contribute to this repo:)
+```
+
+
 
 ``What is async await?``
 
