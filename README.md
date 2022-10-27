@@ -27,3 +27,9 @@ PUT is a method of modifying resource where the client sends data that updates t
 PATCH is used to update an existing entity with new information. You can’t patch an entity that doesn’t exist.
 
 PATCH is a method of modifying resources where the client sends partial data that is to be updated without modifying the entire data.
+
+```What is MongoDB Query?```
+
+MongoDB Query is a way to get the data from the MongoDB database. MongoDB queries provide the simplicity in process of fetching data from the database, it’s similar to SQL queries in SQL Database language. While performing a query operation, one can also use criteria or conditions which can be used to retrieve specific data from the database. 
+
+
