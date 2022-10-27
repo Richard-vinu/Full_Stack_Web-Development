@@ -23,8 +23,8 @@ Mongoose model provides an interface to the database for creating, querying, upd
 
 ```Difference between Put and Patch```
 
-PUT is a method of modifying resource where the client sends data that updates the entire resource .
-PATCH is used to update an existing entity with new information. You can’t patch an entity that doesn’t exist.
+<mark>PUT</mark> is a method of modifying resource where the client sends data that updates the entire resource .
+<mark>PATCh</mark>  is used to update an existing entity with new information. You can’t patch an entity that doesn’t exist.
 
 PATCH is a method of modifying resources where the client sends partial data that is to be updated without modifying the entire data.
 
@@ -45,6 +45,11 @@ setTimeout(function, milliseconds)<br>
 
 setInterval(function, milliseconds)<br>
   *Same as setTimeout(), but repeats the execution of the function continuously.<br>[a link for detail](https://www.w3schools.com/js/js_timing.asp)<br>
+  
+  
+  ```What is the difference between '==' and '===' operators?```
+  
+  The main difference between the == and === operator in javascript is that the == operator does the type conversion of the operands before comparison, whereas the === operator compares the values as well as the data types of the operands
 
 
 
