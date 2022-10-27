@@ -84,6 +84,4 @@ setInterval(function, milliseconds)<br>
   
   The main difference between the == and === operator in javascript is that the == operator does the type conversion of the operands before comparison, whereas the === operator compares the values as well as the data types of the operands
 
-
-
 <img src="https://bkit.co/w_635a66ca8baa7.gif" />
