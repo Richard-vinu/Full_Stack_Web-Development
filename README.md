@@ -5,7 +5,13 @@ Tech: JavaScript::node.js::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 Hi guys.. Hope this content helps, You can Also contribute to this repo:)
 ```
+``FindOne()```
 
+=>The findOne() returns first document if query matches otherwise returns null
+
+``find()``
+
+==>
 
 
 ``What is async await?``
