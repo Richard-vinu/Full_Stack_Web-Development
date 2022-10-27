@@ -5,6 +5,36 @@ Tech: JavaScript::node.js::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 Hi guys.. Hope this content helps, You can Also contribute to this repo:)
 ```
+
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Vamos</h3>
+<table>
+  <tr>
+    <th>PUT</th>
+    <th>PATCH</th>
+  </tr>
+  <tr>
+    <td>PUT is a method of modifying resource where the client<br> sends data that updates the entire resource . </td>
+    <td>PATCH is a method of modifying resources where the client sends partial data that is to be updated without modifying the entire data.</td>
+  </tr>
+  <tr>
+    <td>HTTP PUT is said to be idempotent, So if you send retry a request multiple times, that should be equivalent to a single request modification</td>
+    <td>HTTP PATCH is basically said to be non-idempotent. So if you retry the request N times, you will end up having N resources with N different URIs created on the server.</td>
+  </tr>
+  <tr>
+    <td>It has High Bandwidth </td>
+    <td>Since Only data that need to be modified if send in the request body as a payload , It has Low Bandwidth </td>
+  </tr>
+  <tr>
+    <td>Clients use the PUT method to set up an entity of a resource into an HTTP server. </td>
+   <td>The PATCH method applies partial modifications to entities of a resource.</td>
+  </tr>
+</table>
+</body>
+</html>
+
 ``FindOne()``
 
 =>To select data from a collection in MongoDB, we can use the findOne() method.
