@@ -52,6 +52,19 @@ Hi guys.. Hope this content helps, You can Also contribute to this repo:)
     <td>when you change either the source or the copy, you may also cause the other object to change too </td>
     <td>when you change either the source or the copy, you can be assured you're not causing the other object to change too </td>
   </tr>
+   <tr>
+    <td>`` SHALLOW COPY``<br>
+ const a = { x: 0, y: { z: 0 } };<br>
+const b = {...a}; // or const b = Object.assign({}, a);<br>
+
+b.x = 1; // doesn't update a.x <br>
+b.y.z = 1; // also updates a.y.z</td>
+    <td>``DEEP COPY``<br>
+const a = { x: 0, y: { z: 0 } };<br>
+const b = JSON.parse(JSON.stringify(a)); <br>
+
+b.y.z = 1; // doesn't update a.y.z </td>
+  </tr>
 
 </table>
 
