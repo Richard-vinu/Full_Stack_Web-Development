@@ -34,6 +34,26 @@ Hi guys.. Hope this content helps, You can Also contribute to this repo:)
 </table>
 </body>
 </html>
+<h4>shallow vs deep</h4>
+<table>
+  <tr>
+    <th>shallowCopy</th>
+    <th>deepCopy</th>
+  </tr>
+  <tr>
+    <td>A shallow copy means that certain (sub-)values are still connected to the original variable </td>
+    <td>A deep copy means that all of the values of the new variable are copied and disconnected from the original variable.</td>
+  </tr>
+  <tr>
+    <td>A shallow copy of an object is a copy whose properties share the same references (point to the same underlying values) as those of the source object from which the copy was made.</td>
+    <td>A deep copy of an object is a copy whose properties do not share the same references (point to the same underlying values) as those of the source object from which the copy was made.</td>
+  </tr>
+  <tr>
+    <td>when you change either the source or the copy, you may also cause the other object to change too </td>
+    <td>when you change either the source or the copy, you can be assured you're not causing the other object to change too </td>
+  </tr>
+
+</table>
 
 ``FindOne()``
 
