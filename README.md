@@ -72,6 +72,14 @@ b.y.z = 1; // doesn't update a.y.z </td>
 
 </table>
 
+<h3>what is MVC</h3>
+
+ MVC stands for Model View Controller <br>
+ It is an architectural pattern<br>
+ MVC divides a software application in 3 parts =>  Model,View,Controller
+ ![](https://github.com/Richard-vinu/Kannada_Coder/blob/main/screenshot-www.youtube.com-2022.10.30-17_27_32.png)
+
+
 ``FindOne()``
 
 =>To select data from a collection in MongoDB, we can use the findOne() method.
