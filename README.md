@@ -6,6 +6,9 @@ Tech: JavaScript::node.js::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 
 ```
+![alt text](https://github.com/Richard-vinu/DS_Algo-Question_Practice/blob/ds-algo/HOF/www.freecodecamp.org_news_the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained_.png)
+
+
 
 <!DOCTYPE html>
 <html>
