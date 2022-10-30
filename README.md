@@ -6,7 +6,7 @@ Tech: JavaScript::node.js::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 
 ```
-![alt text](https://github.com/Richard-vinu/DS_Algo-Question_Practice/blob/ds-algo/HOF/www.freecodecamp.org_news_the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained_.png)
+
 
 
 
@@ -57,7 +57,7 @@ Note: 'if you notice any mistake Please feel free to raise an issue'
     <td>when you change either the source or the copy, you can be assured you're not causing the other object to change too </td>
   </tr>
    <tr>
-    <td>`` SHALLOW COPY``<br>
+ <td>``shallow copy``<br>
  const a = { x: 0, y: { z: 0 } };<br>
 const b = {...a}; // or const b = Object.assign({}, a);<br>
 
