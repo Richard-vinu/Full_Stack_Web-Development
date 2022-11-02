@@ -6,8 +6,9 @@ After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued 
 ``Array Vs LinkedList``
 https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267<br>
 
-``10 Important Array Methods In JavaScript``
-https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained
+``10 Important Array Methods In JavaScript``<br>
+``1``  https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/<br>
+``2``   https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained
 
 
 
