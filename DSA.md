@@ -1,4 +1,4 @@
-<h3> Time Complexity and Space Complexity
+<h3> Time Complexity and Space Complexity<h3><br>
 
 ![alt text](https://github.com/Richard-vinu/Kannada_Coder/blob/main/DSA%20time%20complexity%20spreadsheet-1.png
 )
