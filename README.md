@@ -1,7 +1,10 @@
 # IMPORTANT_Q-A
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=70&color=F3F756&width=435&lines=HEY+CheckOut....)](https://git.io/typing-svg)<br>
 
+[MY_Portfolio](https://richardbackdev.netlify.app/)
 ```ruby
-Hi I am Richard.. Hope this content helps You. Goodluck !!!
+Hi I am Richard..
+Hope this content helps You. Goodluck !!!
 Tech: JavaScript::Node.JS::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 
