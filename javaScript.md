@@ -3,6 +3,13 @@
 JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2, and became the ECMA-262 standard in 1997. <br>
 After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser.
 
+``Array Vs LinkedList``
+https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267<br>
+
+``10 Important Array Methods In JavaScript``
+https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained
+
+
 
 ``Promise``
 
