@@ -1,8 +1,8 @@
 # IMPORTANT_Q-A
 
 ```ruby
-Hi I am Richard.. Hope this content helps You
-Tech: JavaScript::node.js::MongoDB
+Hi I am Richard.. Hope this content helps You. Goodluck !!!
+Tech: JavaScript::Node.JS::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 
 ```
