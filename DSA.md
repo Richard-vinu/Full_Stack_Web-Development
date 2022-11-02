@@ -24,4 +24,5 @@ The entry point to a linked list is called the head. The head is a reference to 
   
   
   ``binarySearch``
+  https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/
   
