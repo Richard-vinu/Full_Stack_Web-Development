@@ -7,6 +7,11 @@
   
 [<img src="https://github.com/Richard-vinu/Kannada_Coder/blob/main/DSA%20time%20complexity%20spreadsheet-1.png" width="700" height="600"/>](https://github.com/Richard-vinu/Kannada_Coder/blob/main/DSA%20time%20complexity%20spreadsheet-1.png)
 
+  
+  <h4>Remove the last Element from an Array in JavaScript<h4><br>
+  https://bobbyhadz.com/blog/javascript-remove-last-element-from-array
+  
+  
 <h3>What is a Linked List?<h3>
   
   A linked list is a linear data structure similar to an array. However, unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list.
