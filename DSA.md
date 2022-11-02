@@ -17,3 +17,11 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 
 Image of a linked list
 The entry point to a linked list is called the head. The head is a reference to the first node in the linked list. The last node on the list points to null. If a list is empty, the head is a null reference.
+  
+  
+  ``linear search``
+  https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
+  
+  
+  ``binarySearch``
+  
