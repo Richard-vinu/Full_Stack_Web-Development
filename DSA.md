@@ -21,7 +21,7 @@ function linearSearch(arr, item) {
     return null;
   }
 ```  
-  for more : ![linearseach](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
+  for more :![linearseach](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
   
   
   ``binarySearch``
