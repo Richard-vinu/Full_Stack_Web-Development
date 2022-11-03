@@ -20,10 +20,33 @@ function linearSearch(arr, item) {
     // Item not found in the array.
     return null;
   }
-```
-
-  
+```  
   for more : ![linearseach](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
+  
+  
+  ``binarySearch``
+  ```yaml
+TimeComplexity = O(n)
+
+function binarySearch(arr, item) {
+    let start = 0 , end = arr.length, mid;
+    
+    while(start<=end){
+    mid = Math.floor((start+end)/2)
+    
+    if(item == arr[mid]) return mid;
+    
+    else if (item > arr[mid]) start = mid+1
+    
+    else end = mid -1
+    }
+     
+     // Item not found in the array.
+     return -1;
+   }
+
+``` 
+  for more : ![binarySearch](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/)
   
   
   
@@ -51,7 +74,6 @@ The entry point to a linked list is called the head. The head is a reference to 
   
 
   
-  
-  ``binarySearch``
-  https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/
+
+
   
