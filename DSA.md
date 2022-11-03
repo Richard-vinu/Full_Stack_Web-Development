@@ -25,6 +25,24 @@ The entry point to a linked list is called the head. The head is a reference to 
   
   
   ``linear search``
+  ```yaml
+linearSearch
+
+TimeComplexity = O(n)
+
+function linearSearch(arr, item) {
+    // Go through all the elements of arr to look for item.
+    for (var i = 0; i < arr.length; i++) {
+      if (arr[i] === item) { // Found it!
+        return i;
+      }
+    }
+    
+    // Item not found in the array.
+    return null;
+  }
+
+```
   https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
   
   
