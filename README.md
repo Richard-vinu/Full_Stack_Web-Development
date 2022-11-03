@@ -35,12 +35,24 @@ Promises
 Async/Await
 ```
 
-### Error Response structure
+### What is async/await?
 ```yaml
 
-  status: false,
-  msg: ""
+async/await are two keywords, Async and Await which are used for asynchronous programming in JavaScript.
 
+Rather than having too many nested functions, they keep the code neat and clean, which is why many developers usually recommend it.
+
+Async Function:
+
+An async function is a function that is written by using the async keyword. It is what makes the function asynchronous.
+
+The async makes the function returns a Promise.
+
+Await Function:
+
+The keyword await is used inside the function and it makes JavaScript wait until that promise is settled and return the result.
+
+It can't be used in regular functions (a function without async keyword)
 ```
 
 
