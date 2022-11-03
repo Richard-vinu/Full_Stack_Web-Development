@@ -9,6 +9,39 @@ Tech: JavaScript::Node.JS::MongoDB
 Note: 'if you notice any mistake Please feel free to raise an issue'
 
 ```
+###  What is Async Programming
+```yaml
+Async Programming helps user to execute multiple functions simultaneously.
+
+In async, a task is running in the background, while the user is performing some other action.
+
+Why Async?:
+
+Consider the following example, where an alert is popped up. The user is not able to interact with the page until the alert is closed.
+This is an example of syncronous programming, where execution of one function completely blocks everything.
+This makes the use of async programming useful and important.
+
+Async Example:
+
+Any page that you visit makes multiple API calls to the backend server but during this whole process, 
+the user is able to click and interact anywhere on the website.
+This is because of async programming, as the tasks are running in the background and not blocking the user.
+
+Async in JS:
+
+There are multiple ways of writing async code in JavaScript. The major use case is interacting with 3rd party API(s) or services.
+To write async code in JS, we have the following concepts:
+Promises
+Async/Await
+```
+
+### Error Response structure
+```yaml
+
+  status: false,
+  msg: ""
+
+```
 
 
 
