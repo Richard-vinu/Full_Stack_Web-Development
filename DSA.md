@@ -28,6 +28,7 @@ function linearSearch(arr, item) {
   
   ``BinarySearch``
   ```yaml
+  NOTE: Array should be sorted
 TimeComplexity = O(n)
 
 function binarySearch(arr, item) {
