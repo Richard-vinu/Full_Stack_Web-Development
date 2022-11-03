@@ -5,8 +5,10 @@
 
 ### Searching Algorithm
 
-  ``**linear search**``
+  ``linear search``
+
   ```yaml
+
 TimeComplexity = O(n)
 
 function linearSearch(arr, item) {
@@ -24,7 +26,7 @@ function linearSearch(arr, item) {
   for more :[linearseach](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
   
   
-  ``binarySearch``
+  ``BinarySearch``
   ```yaml
 TimeComplexity = O(n)
 
