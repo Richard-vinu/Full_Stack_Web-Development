@@ -52,6 +52,28 @@ function binarySearch(arr, item) {
   for more : [binarySearch](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/)
   
   
+### Sorting Algorithm
+
+  ``Quicksort``
+
+  ```yaml
+
+TimeComplexity = O(n)
+
+function linearSearch(arr, item) {
+    // Go through all the elements of arr to look for item.
+    for (var i = 0; i < arr.length; i++) {
+      if (arr[i] === item) { // Found it!
+        return i;
+      }
+    }
+    
+    // Item not found in the array.
+    return null;
+  }
+```  
+  for more :[quick sort](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
+  
   
   
   
