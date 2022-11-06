@@ -1,5 +1,6 @@
 ### Time Complexity and Space Complexity
 
+https://www.bigocheatsheet.com/
 
 [<img src="https://github.com/Richard-vinu/Kannada_Coder/blob/main/DSA%20time%20complexity%20spreadsheet-1.png" width="700" height="600"/>](https://github.com/Richard-vinu/Kannada_Coder/blob/main/DSA%20time%20complexity%20spreadsheet-1.png)
 
