@@ -14,7 +14,11 @@ Front-End
 [HTML](https://github.com/Richard-vinu/web-development/blob/main/HTML.md) || [CSS](https://github.com/Richard-vinu/web-development/blob/main/CSS.md)  || [JAVASCRIPT](https://github.com/Richard-vinu/web-development/blob/main/JavaScript.md)  || [REACT.JS](https://github.com/Richard-vinu/web-development/blob/main/React.js)  <br>
 
 Back-End<br>
-[NODE.JS](https://github.com/Richard-vinu/web-development/blob/main/React.js) || [NODE.JS](https://github.com/Richard-vinu/web-development/blob/main/React.js) 
+[NODE.JS](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md)
+  
+ 
+ DATABASE<br>
+[SQL](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md) || [MONGO-DB](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md)
 
 
 
