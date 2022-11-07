@@ -39,3 +39,11 @@ NPM is already ready to run on your computer!
 
 ```
 
+What is a Package?
+```yaml
+A package in Node.js contains all the files you need for a module.
+
+Modules are JavaScript libraries you can include in your project.
+
+```
+
