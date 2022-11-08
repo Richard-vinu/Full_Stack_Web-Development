@@ -83,7 +83,7 @@ function linearSearch(arr, item) {
   
   
   
-  <h4>Remove the last Element from an Array in JavaScript<h4><br>
+  Remove the last Element from an Array in JavaScript
   https://bobbyhadz.com/blog/javascript-remove-last-element-from-array
   
   What is a Linked List?
