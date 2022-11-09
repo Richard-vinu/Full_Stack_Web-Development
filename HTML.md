@@ -24,25 +24,18 @@ Hypertext means that the document contains links that allow the reader to jump t
 
 A Markup Language is a way that computers speak to each other to control how text is processed and presented. To do this HTML uses two things: tags and attributes.
 
-What are Tags and Attributes?
+``What are Tags and Attributes?``
 Tags and attributes are the basis of HTML.
 
 They work together but perform different functions – it is worth investing 2 minutes in differentiating the two.
 
-What Are HTML Tags?
+``What Are HTML Tags?``
 Tags are used to mark up the start of an HTML element and they are usually enclosed in angle brackets. An example of a tag is: <h1>.
 
 Most tags must be opened <h1> and closed </h1> in order to function.
 
-What are HTML Attributes?
+``What are HTML Attributes?``
 Attributes contain additional pieces of information. Attributes take the form of an opening tag and additional info is placed inside.
-
-An example of an attribute is:
-
-<img src="mydog.jpg" alt="A photo of my dog.">
-
-In this instance, the image source (src) and the alt text (alt) are attributes of the <img> tag.
-
 
 
 Read more: https://html.com/#ixzz7k7NMruFe
