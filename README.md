@@ -11,14 +11,14 @@ Note:'raise an issue if u find mistake and Your contributions are heartily ♡ w
 <h4>Tech<h4>
 Front-End
 
-[HTML](https://github.com/Richard-vinu/web-development/blob/main/HTML.md) || [CSS](https://github.com/Richard-vinu/web-development/blob/main/CSS.md)  || [JAVASCRIPT](https://github.com/Richard-vinu/web-development/blob/main/JavaScript.md)  || [REACT.JS](https://github.com/Richard-vinu/web-development/blob/main/React.js)  <br>
+[HTML](https://github.com/Richard-vinu/web-development/blob/main/HTML.md) || [CSS](https://github.com/Richard-vinu/web-development/blob/main/CSS.md)  || [JAVASCRIPT](https://github.com/Richard-vinu/web-development/blob/main/JavaScript.md)  || [REACT.JS](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/ReactJs.md)  <br>
 
 Back-End<br>
-[NODE.JS](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md)
+[NODE.JS](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/NodeJs.md)
   
  
  DATABASE<br>
-[SQL](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md) || [MONGO-DB](https://github.com/Richard-vinu/web-development/blob/main/nodeJs.md)
+[SQL](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/SQL.md) || [MONGO-DB](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/MongoDb.md)
 
 
 
