@@ -5,7 +5,7 @@
 ```ruby
 Hi I am Richard..
 Hope this content helps You. if so 😅 give a STAR🌟... Goodluck !!!
-Note: 'if you notice any mistake Please feel free to raise an issue'
+Note: 'if you notice any mistake Please feel free to raise an issue and your are most welcome to contribute'
 ```
 
 <h4>Tech<h4>
