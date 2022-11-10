@@ -20,6 +20,9 @@ Back-End<br>
  DATABASE<br>
 [SQL](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/SQL.md) || [MONGO-DB](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/MongoDb.md)
 
+ DSA<br>
+[Data-Structure](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/Data-Structure.md) || [Algorithms](https://github.com/Richard-vinu/Full_Stack_Web-Development/blob/main/alogirithms.md)
+
 
 
 
