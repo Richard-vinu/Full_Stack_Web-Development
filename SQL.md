@@ -61,3 +61,9 @@ Constraints are used to specify the rules concerning data in the table. It can b
 8. What is a Primary Key?
 The PRIMARY KEY constraint uniquely identifies each row in a table. It must contain UNIQUE values and has an implicit NOT NULL constraint.
 A table in SQL is strictly restricted to have one and only one primary key, which is comprised of single or multiple fields (columns).
+
+
+10. What is a Foreign Key?
+
+A FOREIGN KEY comprises of single or collection of fields in a table that essentially refers to the PRIMARY KEY in another table. Foreign key constraint ensures referential integrity in the relation between two tables.
+The table with the foreign key constraint is labeled as the child table, and the table containing the candidate key is labeled as the referenced or parent table.
