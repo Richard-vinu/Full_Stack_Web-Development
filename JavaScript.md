@@ -1,4 +1,4 @@
-Reference Book https://eloquentjavascript.net/
+Reference Book https://eloquentjavascript.net/ <br>
 interview questions = https://medium.com/@a9kitsharma/javascript-interview-questions-and-answers-1c155c869aec
 
 ``Who developed JavaScript in which year?``<br>
@@ -7,6 +7,7 @@ JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2
 After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser.
 
 ``Array Vs LinkedList``
+
 https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267<br>
 
 ``10 Important Array Methods In JavaScript``<br>
