@@ -20,7 +20,12 @@ https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267<br>
 The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.<br>
 Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.
 
+``CORS``
+
+https://www.contentstack.com/docs/developers/how-to-guides/understanding-and-resolving-cors-error/
+
 
 ``Who is developing Nodejs?``<br>
 Ryan Dahl<br>
 Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node.
+
