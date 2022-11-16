@@ -1,10 +1,22 @@
 Node.js Tutorial for Beginners Step by Step With Examples https://codeforgeek.com/node-js-tutorial-step-by-step/<br>
 
 Node.js inteerview question https://medium.com/@imranyounaskaa123/node-js-interview-questions-5aa86cda8c3f
+<br>
 
-``Who is developed Nodejs?``<br>
-Ryan Dahl<br>
-Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node.
+
+
+
+
+  
+ 
+
+
+Who is developed Nodejs
+
+    Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node.
+    Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
+    Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+    Node.js uses JavaScript on the server
 
 What is Node.js?
 
