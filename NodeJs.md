@@ -68,3 +68,24 @@ Modules are JavaScript libraries you can include in your project.
 
 ```
 
+RESTful supports JSON, XML,
+	SOAP supports only XML
+REST is faster than SOAP based web services
+	SOAP is more secure
+REST allows a greater variety of data formats,
+	SOAP only allows XML.
+    
+   ``` 1) SOAP```
+- Communication happens using XML only
+- Request is sent to SOAP methods
+- Documentation is in WSDL (Wizdal)
+- Heavy, more secure, more stable
+- getting less popular
+   ``` 2) REST API```
+- Communication happens using Json, XML
+- Requests are sent to API methods/urls using
+- Communication happens in HTTP(Internet)
+- Lightweight, stable
+- Easy to develop and automate
+- very popular
+
