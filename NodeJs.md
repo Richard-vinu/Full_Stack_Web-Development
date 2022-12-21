@@ -11,13 +11,13 @@ Node.js inteerview question https://medium.com/@imranyounaskaa123/node-js-interv
 *more work on  both ends(sealing and opening) more secure
 
 ```Rest (Representational State Transfer Application programming interface)```<br>
-*Rest is like a postcard
-*Communication happens using Json, XML
-*ligthweight
-*can be cached
-*easier to update
-*- Easy to develop and automate
-- very popular
+*Rest is like a postcard<br>
+*Communication happens using Json, XML<br>
+*ligthweight <br>
+*can be cached <br>
+*easier to update <br>
+*- Easy to develop and automate <br>
+- very popular<br>
 
 
 
