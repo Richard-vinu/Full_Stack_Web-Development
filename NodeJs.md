@@ -80,7 +80,7 @@ REST allows a greater variety of data formats,
 - Request is sent to SOAP methods
 - Documentation is in WSDL (Wizdal)
 - Heavy, more secure, more stable
-- getting less popular
+- getting less popular<br>
    ``` 2) REST API```
 - Communication happens using Json, XML
 - Requests are sent to API methods/urls using
