@@ -3,7 +3,18 @@ Node.js Tutorial for Beginners Step by Step With Examples https://codeforgeek.co
 Node.js inteerview question https://medium.com/@imranyounaskaa123/node-js-interview-questions-5aa86cda8c3f
 <br>
 
+Soap ( Simple object access protocol)
+* soap is like using an envelope
+*Communication happens using XML only
+* more bandwidth
+*more work on  both ends(sealing and opening) more secure
 
+Rest (Representational State Transfer Application programming interface)
+*Rest is like a postcard
+*Communication happens using Json, XML
+*ligthweight
+*can be cached
+*easier to update
 
 
 
