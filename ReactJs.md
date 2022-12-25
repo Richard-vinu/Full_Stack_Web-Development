@@ -16,11 +16,6 @@ function FavoriteColor() {
       <h1>My favorite color is {color}!</h1>
       <button
         type="button"
-        onClick={() => setColor("blue")}
-      >Blue</button>
-      <button
-        t
-}
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<FavoriteColor />);
