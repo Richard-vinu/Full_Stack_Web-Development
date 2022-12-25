@@ -19,19 +19,7 @@ function FavoriteColor() {
         onClick={() => setColor("blue")}
       >Blue</button>
       <button
-        type="button"
-        onClick={() => setColor("red")}
-      >Red</button>
-      <button
-        type="button"
-        onClick={() => setColor("pink")}
-      >Pink</button>
-      <button
-        type="button"
-        onClick={() => setColor("green")}
-      >Green</button>
-    </>
-  );
+        t
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
