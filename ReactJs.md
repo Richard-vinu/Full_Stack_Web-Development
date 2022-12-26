@@ -15,7 +15,3 @@ function Checkbox() {
   );
 
 
-
-People also ask
-What are Hooks in React?
-R
