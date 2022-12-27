@@ -21,8 +21,8 @@ Hooks let you organize side effects in a component by what pieces are related (s
 JSX (JavaScript Syntax Extension)<br>
 Virtual DOM.<br>
 One-way data binding.<br>
-Performance.
-Extensions.
-Conditional statements.
-Components.
-Simplicity.
+Performance.<br>
+Extensions.<br>
+Conditional statements.<br>
+Components.<br>
+Simplicity.<br>
