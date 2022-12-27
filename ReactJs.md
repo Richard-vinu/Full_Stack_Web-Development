@@ -12,7 +12,7 @@ React Hooks are simple JavaScript functions that we can use to isolate the reusa
 
 
 
-2)Why Hooks are used in React?<br>
+2)```Why Hooks are used in React?```<br>
 <br>
 Hooks let you organize side effects in a component by what pieces are related (such as adding and removing a subscription), rather than forcing a split based on lifecycle methods. You can learn more about useEffect on a dedicated page: Using the Effect Hook.
 
