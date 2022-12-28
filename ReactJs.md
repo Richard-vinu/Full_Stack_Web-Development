@@ -45,3 +45,15 @@ Q7. Why is React widely used today?
 Q8. Are there any disadvantages to using React?
 Q9. Differentiate between Angular and React.
 Q10. What is the meaning of the component-based architecture of React?
+
+1. What is the difference between Virtual DOM and Real DOM?
+Virtual DOM	Real DOM
+Changes can be made easily	Changes can be expensive
+Minimal memory wastage	High demand for memory and more wastage
+JSX element is updated if the element exists	Creates a new DOM every time an element gets updated
+Cannot update HTML directly	Able to directly manipulate HTML
+Faster updates	Slow updates
+2. What is React?
+React is a widely used JavaScript library that was launched in 2011. It was created by developers at Facebook, and it is primarily used for frontend development. React uses the component-based approach, which ensures to help you build components that possess high reusability.
+
+React is well known for developing and designing complex mobile user interfaces and web applications.
