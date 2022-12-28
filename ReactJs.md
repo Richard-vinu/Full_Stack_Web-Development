@@ -31,3 +31,5 @@ Simplicity.<br>
 
 
 Top 50 React Interview Questions and Answers in 2022<br>
+Top Answers to React Interview Questions
+Knowing the amount of work it takes to ace these interviews, we have come up with this compilation of questions with the highest probability of occurrence. Going through these top questions will give you the highest chances of answering most of the questions asked in a React.js interview thoroughly.
