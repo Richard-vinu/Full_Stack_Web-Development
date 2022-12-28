@@ -19,7 +19,7 @@ Hooks let you organize side effects in a component by what pieces are related (s
 <br>
 
 ```Features of React```
-<br
+
 JSX (JavaScript Syntax Extension)<br>
 Virtual DOM.<br>
 One-way data binding.<br>
