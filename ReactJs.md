@@ -47,6 +47,5 @@ Q9. Differentiate between Angular and React.
 Q10. What is the meaning of the component-based architecture of React?
 
 1. What is the difference between Virtual DOM and Real DOM
-2. 3. What is the meaning of Virtual DOM?
-A virtual DOM is a simple JavaScript object that is the exact copy of the corresponding real DOM. It can be considered as a node tree that consists of elements, their attributes, and other properties. Using the render function in React, it creates a node tree and updates it based on the changes that occur in the data model. These 
+
 
