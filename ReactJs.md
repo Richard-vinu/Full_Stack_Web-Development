@@ -30,4 +30,4 @@ Components.<br>
 Simplicity.<br>
 
 
-Top 50 React Interview Questions and Answers in 2022
+Top 50 React Interview Questions and Answers in 2022<br>
