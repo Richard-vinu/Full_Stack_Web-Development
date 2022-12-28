@@ -46,6 +46,18 @@ Q8. Are there any disadvantages to using React?
 Q9. Differentiate between Angular and React.
 Q10. What is the meaning of the component-based architecture of React?
 
-4. What are some of the important features of React?
+render(){
+
+return(
+
+<div>
+
+<h1> Hello Intellipaat learners!</h1>
+
+</div>
+
+);
+
+}
 
 
