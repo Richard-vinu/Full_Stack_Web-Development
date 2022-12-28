@@ -28,3 +28,6 @@ Extensions.<br>
 Conditional statements.<br>
 Components.<br>
 Simplicity.<br>
+
+
+Top 50 React Interview Questions and Answers in 2022
