@@ -8,7 +8,8 @@ book https://raw.githubusercontent.com/ValentineFernandes/programming-books-or-r
 
   ```!.Component```<br>
 
-  
+    *represents a part fo user-Interface
+  *are reauseble
   
 
 ```1)What are Hooks in Reacts?```
