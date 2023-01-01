@@ -5,11 +5,8 @@ RoadMap = https://roadmap.sh/react <br>
 study-Website https://reactjs.org/tutorial/tutorial.html
 
 book https://raw.githubusercontent.com/ValentineFernandes/programming-books-or-references/main/React/ReactJS%20Notes.pdf <br>
-
-  ```!.Component```<br>
-
-    *represents a part fo user-Interface
-
+  
+Q. What are the advantages of ReactJS?
 
 ```1)What are Hooks in Reacts?```
 <br>
