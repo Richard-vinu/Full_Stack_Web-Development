@@ -7,7 +7,17 @@ study-Website https://reactjs.org/tutorial/tutorial.html
 book https://raw.githubusercontent.com/ValentineFernandes/programming-books-or-references/main/React/ReactJS%20Notes.pdf <br>
   
 Q. What are the advantages of ReactJS?
+Below are the advantages of ReactJS:
 
+Increases the application’s performance with Virtual DOM
+
+JSX makes code easy to read and write
+
+It renders both on the client and server-side
+
+Easy to integrate with other frameworks (Angular, BackboneJS) since it is only a view library
+
+Easy to write UI Test cases and integration with tools such as JEST.
 ```1)What are Hooks in Reacts?```
 <br>
 React Hooks are simple JavaScript functions that we can use to isolate the reusable part from a functional component. Hooks can be stateful and can manage side-effects. React provides a bunch of standard in-built hooks: useState : To manage states. Returns a stateful value and an updater function to update it.
