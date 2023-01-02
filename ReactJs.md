@@ -11,7 +11,8 @@ Below are the advantages of ReactJS:
 
 Increases the application’s performance with Virtual DOM
 
-```JSX makes code easy to read and write.<br> It renders both on the client and server-side ```
+```JSX makes code easy to read and write.
+  It renders both on the client and server-side ```
 
 
 
