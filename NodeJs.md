@@ -88,3 +88,6 @@ There are different services available for communication between client and serv
 
 Before we go into the differences between these two services, let’s understand what they are first.
 
+What is the REST API?
+REST API is one of the most common types of API. REST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. It connects your backend with your frontend so they can communicate with each other.
+
