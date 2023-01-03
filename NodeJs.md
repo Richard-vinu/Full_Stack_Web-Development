@@ -84,3 +84,7 @@ Modules are JavaScript libraries you can include in your project.
 
 ```What is the difference between REST and SOAP APIs?```
 
+There are different services available for communication between client and server. Two of them are widely used, i.e., REST and SOAP APIs. Both services have a client that requests data and a server that responds.
+
+Before we go into the differences between these two services, let’s understand what they are first.
+
