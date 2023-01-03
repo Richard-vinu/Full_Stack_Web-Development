@@ -1,6 +1,6 @@
 Node.js Tutorial for Beginners Step by Step With Examples https://codeforgeek.com/node-js-tutorial-step-by-step/<br>
 
-Node.js inteerview question https://medium.com/@imranyounaskaa123/node-js-interview-questions-5aa86cda8c3f
+Node.js interview question https://medium.com/@imranyounaskaa123/node-js-interview-questions-5aa86cda8c3f
 <br>
 
 ```Soap ( Simple object access protocol)```<br>
