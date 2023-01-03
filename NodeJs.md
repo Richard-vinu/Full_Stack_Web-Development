@@ -89,5 +89,10 @@ There are different services available for communication between client and serv
 Before we go into the differences between these two services, let’s understand what they are first.
 
 What is the REST API?
+
 REST API is one of the most common types of API. REST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. It connects your backend with your frontend so they can communicate with each other.
+
+What is the SOAP API?
+
+SOAP API is another kind of web service that allows communication between client and server. Any web service that complies with the SOAP web services specification is a SOAP web service. The W3C (World Wide Web Consortium) is behind these specifications.
 
