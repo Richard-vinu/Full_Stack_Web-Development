@@ -20,10 +20,10 @@ Node.js interview question https://medium.com/@imranyounaskaa123/node-js-intervi
 - very popular<br>
 
 
-What is the use of node JS?
+What is the use of node JS?<br>
 It is mainly used for making APIs (Application programming interfaces).
 Is node a single threaded application?
-Yes. Node is a single-threaded application with event looping.
+Yes. Node is a single-threaded application with event looping.<br>
 
   
  Node JS
