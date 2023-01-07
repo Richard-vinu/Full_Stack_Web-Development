@@ -32,6 +32,12 @@ The initial release was in 2009.
 It is open source & used with a node package manager (NPM).
 
 
+What is V8?
+V8 is chrome’s open-source project.
+The job of the JavaScript engine (v8) is to take JavaScript code and compile it
+down to machine code.
+The V8 engine is written in the c ++ programming language.
+
 Who is developed Nodejs
 
     Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node.
