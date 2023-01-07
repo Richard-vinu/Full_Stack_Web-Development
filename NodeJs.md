@@ -22,7 +22,14 @@ Node.js interview question https://medium.com/@imranyounaskaa123/node-js-intervi
 
 
   
- 
+ Node JS
+What is Node?
+It is an asynchronous, non-blocking, single-threaded, and event-driven Model.
+What is Node JS?
+Node js is a JavaScript runtime built on chrome’s v8 JavaScript engine.
+Node js framework for writing server-side JavaScript applications.
+The initial release was in 2009.
+It is open source & used with a node package manager (NPM).
 
 
 Who is developed Nodejs
