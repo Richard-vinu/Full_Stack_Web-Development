@@ -1,4 +1,4 @@
-React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of br><individual developers and companies.
 
 Is React for HTML or JS?
 React applications are usually built around a single HTML element.
