@@ -55,6 +55,7 @@ Simplicity.<br>
   React State
   
   A state must be kept as simple as possible. It can be set by using the setState() method and calling setState() method triggers UI updates.
+  To set an initial state before any interaction occurs, we need to use the getInitialState() method.
 
 Top 50 React Interview Questions and Answers in 2022<br>
 Top Answers to React Interview Questions
