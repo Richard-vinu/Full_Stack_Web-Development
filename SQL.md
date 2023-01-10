@@ -2,6 +2,10 @@ What is SQL?
 
 SQL is a short-form of the structured query language, and it is pronounced as S-Q-L or sometimes as See-Quell.
 
+What is SQL?
+SQL stands for Structured Query Language
+SQL lets you access and manipulate databases
+SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987
 Structured Query Language contains the following four components in its process:
 
 
