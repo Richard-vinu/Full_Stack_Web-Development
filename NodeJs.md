@@ -11,6 +11,7 @@ Node.js interview question https://medium.com/@imranyounaskaa123/node-js-intervi
 *more work on  both ends(sealing and opening) more secure
 
 ```Rest (Representational State Transfer Application programming interface)```<br>
+
 *Rest is like a postcard<br>
 *Communication happens using Json, XML<br>
 *ligthweight <br>
