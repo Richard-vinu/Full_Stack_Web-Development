@@ -36,3 +36,30 @@ aws region
 Auto-scaling is a function that allows you to provision and launch new instances whenever there is a demand. It allows you to automatically increase or decrease resource capacity in relation to the demand.
 
 Interested in becoming a cloud architect? Join our Cloud Architect Master’s Program and learn AWS, Microsoft Azure, and Google Cloud Platform from the ground up!
+
+4. What is geo-targeting in CloudFront?
+Geo-Targeting is a concept where businesses can show personalized content to their audience based on their geographic location without changing the URL. This helps you create customized content for the audience of a specific geographical area, keeping their needs in the forefront.
+
+5. What are the steps involved in a CloudFormation Solution?
+Here are the steps involved in a CloudFormation solution:
+
+cloud formation
+
+Create or use an existing CloudFormation template using JSON or YAML format.
+Save the code in an S3 bucket, which serves as a repository for the code.
+Use AWS CloudFormation to call the bucket and create a stack on your template. 
+CloudFormation reads the file and understands the services that are called, their order, the relationship between the services, and provisions the services one after the other.
+
+
+6. How do you upgrade or downgrade a system with near-zero downtime?
+You can upgrade or downgrade a system with near-zero downtime using the following steps of migration:
+
+Open EC2 console
+Choose Operating System AMI
+Launch an instance with the new instance type
+Install all the updates
+Install applications
+Test the instance to see if it’s working
+If working, deploy the new instance and replace the older instance
+Once it’s deployed, you can upgrade or downgrade the system with near-zero downtime.
+Take home these interview Q&As and get much more. Download the complete AWS Interview Guide here:
