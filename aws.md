@@ -63,3 +63,27 @@ Test the instance to see if it’s working
 If working, deploy the new instance and replace the older instance
 Once it’s deployed, you can upgrade or downgrade the system with near-zero downtime.
 Take home these interview Q&As and get much more. Download the complete AWS Interview Guide here:
+
+
+7. What are the tools and techniques that you can use in AWS to identify if you are paying more than you should be, and how to correct it?
+You can know that you are paying the correct amount for the resources that you are using by employing the following resources:
+
+Check the Top Services Table
+It is a dashboard in the cost management console that shows you the top five most used services. This will let you know how much money you are spending on the resources in question.
+Cost Explorer
+There are cost explorer services available that will help you to view and analyze your usage costs for the last 13 months. You can also get a cost forecast for the upcoming three months.
+AWS Budgets
+This allows you to plan a budget for the services. Also, it will enable you to check if the current plan meets your budget and the details of how you use the services.
+Cost Allocation Tags
+This helps in identifying the resource that has cost more in a particular month. It lets you organize your resources and cost allocation tags to keep track of your AWS costs.
+Become a Certified Cloud Expert in 6 Months!
+Caltech Cloud Computing BootcampEXPLORE PROGRAMBecome a Certified Cloud Expert in 6 Months!
+8. Is there any other alternative tool to log into the cloud environment other than console?
+The that can help you log into the AWS resources are:
+
+Putty
+AWS CLI for Linux
+AWS CLI for Windows
+AWS CLI for Windows CMD
+AWS SDK
+Eclipse
