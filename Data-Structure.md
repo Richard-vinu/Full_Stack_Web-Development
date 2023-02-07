@@ -7,6 +7,34 @@
 
 The data structure is a way that specifies how to organize and manipulate the data. It also defines the relationship between them. Some examples of Data Structures are arrays, Linked List, Stack, Queue, etc. Data Structures are the central part of many computer science algorithms as they enable the programmers to handle the data in an efficient way
 
+Learn Data Structure
+Array
+String
+Linked List
+Matrix/Grid
+Stack
+Queue
+Heap
+Hash
+Tree Data Structures
+Binary Tree
+Binary Search Tree
+Other Tree Data Structures
+Graph Data Structure
+Learn Algorithms
+Searching Algorithm
+Sorting Algorithm
+Divide and Conquer Algorithm
+Greedy Mehtodology
+Recursion
+Backtracking Algorithm
+Dynamic Programming
+Pattern Searching
+Mathematical Algorithms
+Geometric Algorithms
+Bitwise Algorithms
+Randomized Algorithms
+Branch and Bound Algorithm
 
 ## Linked List
 
