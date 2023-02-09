@@ -20,7 +20,7 @@ After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued 
 
 The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.<br>
 Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.
-
+```
 function wait(ms) {
   return new Promise((resolve) => {
     setTimeout(() => {
@@ -32,7 +32,7 @@ function wait(ms) {
 wait(1000).then((result) => { 
   console.log(result);
 });  
-
+```
 ``CORS``
 
 https://www.contentstack.com/docs/developers/how-to-guides/understanding-and-resolving-cors-error/
