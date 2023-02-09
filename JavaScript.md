@@ -32,6 +32,33 @@ function wait(ms) {
 wait(1000).then((result) => { 
   console.log(result);
 });  
+
+A Promise in JavaScript is an object that represents the eventual completion or failure of an asynchronous operation. It provides a way to register callbacks to be notified when the operation is complete or has failed, rather than having to explicitly pass callbacks around as function arguments.
+
+A Promise has three possible states:
+
+Pending: The initial state of a Promise, representing that the operation has not yet completed.
+
+Fulfilled: The state of a Promise representing that the operation has completed successfully and has a resulting value.
+
+Rejected: The state of a Promise representing that the operation has failed, and has a reason for the failure.
+
+Here's an example of using a Promise to wrap a timer function that returns the elapsed time after a specified number of milliseconds:
+
+javascript
+Copy code
+function wait(ms) {
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(`${ms}ms has passed`);
+    }, ms);
+  });
+}
+
+wait(1000).then((result) => {
+  console.log(result);
+});
+In this example, the wait function returns a Promise that resolves with a message indicating that the specified number of milliseconds have passed. The then method is used to register a callback to be invoked when the Promise is resolved.
 ```
 ``CORS``
 
