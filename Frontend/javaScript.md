@@ -7,3 +7,6 @@ Array’s slice() is used to extract a shallow copy of the elements from array i
 
 startIndex: Zero based index from which to start Extraction
 endIndex: Zero based index before which the extraction should end
+
+
+ChekoutThis=>  https://medium.com/@bhavesh.kankaria/array-splice-vs-slice-ac0307773912
