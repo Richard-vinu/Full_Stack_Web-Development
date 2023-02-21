@@ -1,5 +1,4 @@
-#Slice
 
-When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.
-
+SPLICE() :
+Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
 #Splice
