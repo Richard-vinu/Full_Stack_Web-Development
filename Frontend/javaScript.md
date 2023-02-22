@@ -1,5 +1,6 @@
 JavaScript Beginning to Mastery Syllabus
 
+```Javascript Object methods every developer should know```
 
 Shallow copy — Object.assign()
 Deep copy — JSON.parse() & JSON.stringify()
