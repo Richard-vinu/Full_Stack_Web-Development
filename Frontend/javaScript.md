@@ -28,6 +28,19 @@ For loop examples
 Break and continue keyword
 Do while loop
 
+Arrays in JavaScript
+Intro to arrays
+Push pop shift unshift
+Primitive vs reference data types
+Clone array & spread operator
+For loop
+use const for creating arrays
+While loop in array
+For of loop
+For in loop
+Array destructuring
+
+
 SPLICE() :
 Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
 
