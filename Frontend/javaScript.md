@@ -1,5 +1,14 @@
 JavaScript Beginning to Mastery Syllabus
 
+
+Shallow copy — Object.assign()
+Deep copy — JSON.parse() & JSON.stringify()
+Object.create()
+Object.entries()
+Object.keys()
+Object.values()
+Object.freeze()
+
 JavaScript vs EcmaScript 
 Install vscode and run first program
 
