@@ -1,3 +1,32 @@
+JavaScript Beginning to Mastery Syllabus
+
+JavaScript vs EcmaScript 
+Install vscode and run first program
+
+Basics of Programming in JavaScript
+Hello world program
+Declare variable using var
+More about variable
+Let
+Const
+String Indexing
+Useful string methods
+Template Strings
+Null, undefined, BigInt, typeof
+Booleans and Comparison Operator
+Truthy and Falsy Values
+If else statement
+Ternary Operator
+&& || operator
+Nested if else
+If elseif else
+Switch statement
+While loop 
+While loop examples
+For loop
+For loop examples
+Break and continue keyword
+Do while loop
 
 SPLICE() :
 Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
