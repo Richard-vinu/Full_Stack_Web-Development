@@ -41,6 +41,31 @@ For in loop
 Array destructuring
 
 
+Objects in JavaScript
+Intro to objects
+Dot vs Bracket Notation
+Iterate objects
+Computed properties
+Spread operator in objects
+Object Destructuring
+Objects inside Array
+Nested Destructuring
+
+Functions in JavaScript
+Function declaration
+Function Expression
+Arrow Functions
+Function declarations are hoisted  (covered in great detail , later in this course)
+Function inside function
+Lexical Scope
+Block Scope Vs Function Scope
+Default Parameters
+Rest Parameters
+Parameter Destructuring
+Very brief intro to callback functions(covered in great detail , later in the course)
+Functions returning Functions 
+
+
 SPLICE() :
 Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
 
