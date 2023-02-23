@@ -2,13 +2,13 @@ JavaScript Beginning to Mastery Syllabus
 
 ```Javascript Object methods every developer should know```
 
-Shallow copy — Object.assign()
-Deep copy — JSON.parse() & JSON.stringify()
-Object.create()
-Object.entries()
-Object.keys()
-Object.values()
-Object.freeze()
+Shallow copy — Object.assign()<br>
+Deep copy — JSON.parse() & JSON.stringify()<br>
+Object.create()<br>
+Object.entries()<br>
+Object.keys()<br>
+Object.values()<br>
+Object.freeze()<br>
 
 JavaScript vs EcmaScript 
 Install vscode and run first program
