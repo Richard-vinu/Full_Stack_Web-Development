@@ -11,32 +11,30 @@ Object.values()<br>
 Object.freeze()<br>
 
 JavaScript vs EcmaScript 
-Install vscode and run first program
 
-Basics of Programming in JavaScript
-Hello world program
-Declare variable using var
-More about variable
-Let
-Const
-String Indexing
-Useful string methods
-Template Strings
-Null, undefined, BigInt, typeof
-Booleans and Comparison Operator
-Truthy and Falsy Values
-If else statement
-Ternary Operator
-&& || operator
-Nested if else
-If elseif else
-Switch statement
-While loop 
-While loop examples
-For loop
-For loop examples
-Break and continue keyword
-Do while loop
+
+Declare variable using var <br>
+More about variable<br>
+Let<br>
+Const<br>
+String Indexing<br>
+Useful string methods<br>
+Template Strings<br>
+Null, undefined, BigInt, typeof<br>
+Booleans and Comparison Operator<br>
+Truthy and Falsy Values<br>
+If else statement<br>
+Ternary Operator<br>
+&& || operator<br>
+Nested if else<br>
+If elseif else<br>
+Switch statement<br>
+While loop <br>
+While loop examples<br>
+For loop<br>
+For loop examples<br>
+Break and continue keyword<br>
+Do while loop<br>
 
 Arrays in JavaScript
 Intro to arrays
