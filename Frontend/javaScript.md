@@ -62,16 +62,16 @@ Nested Destructuring<br>
 Functions in JavaScript<br>
 Function declaration<br>
 Function Expression<br>
-Arrow Functions
-Function declarations are hoisted  (covered in great detail , later in this course)
-Function inside function
-Lexical Scope
-Block Scope Vs Function Scope
-Default Parameters
-Rest Parameters
-Parameter Destructuring
-Very brief intro to callback functions(covered in great detail , later in the course)
-Functions returning Functions 
+Arrow Functions<br>
+Function declarations are hoisted  (covered in great detail , later in this course)<br>
+Function inside function<br>
+Lexical Scope<br>
+Block Scope Vs Function Scope<br>
+Default Parameters<br>
+Rest Parameters<br>
+Parameter Destructuring<br>
+Very brief intro to callback functions(covered in great detail , later in the course)<br>
+Functions returning Functions <br>
 
 
 SPLICE() :
