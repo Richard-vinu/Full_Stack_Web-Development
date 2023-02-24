@@ -36,32 +36,32 @@ For loop examples<br>
 Break and continue keyword<br>
 Do while loop<br>
 
-Arrays in JavaScript
-Intro to arrays
-Push pop shift unshift
-Primitive vs reference data types
-Clone array & spread operator
-For loop
-use const for creating arrays
-While loop in array
-For of loop
-For in loop
-Array destructuring
+Arrays in JavaScript<br>
+Intro to arrays<br>
+Push pop shift unshift<br>
+Primitive vs reference data types<br>
+Clone array & spread operator<br>
+For loop<br>
+use const for creating arrays<br>
+While loop in array<br>
+For of loop<br>
+For in loop<br>
+Array destructuring<br>
 
 
-Objects in JavaScript
-Intro to objects
-Dot vs Bracket Notation
-Iterate objects
-Computed properties
-Spread operator in objects
-Object Destructuring
-Objects inside Array
-Nested Destructuring
+Objects in JavaScript<br>
+Intro to objects<br>
+Dot vs Bracket Notation<br>
+Iterate objects<br>
+Computed properties<br>
+Spread operator in objects<br>
+Object Destructuring<br>
+Objects inside Array<br>
+Nested Destructuring<br>
 
-Functions in JavaScript
-Function declaration
-Function Expression
+Functions in JavaScript<br>
+Function declaration<br>
+Function Expression<br>
 Arrow Functions
 Function declarations are hoisted  (covered in great detail , later in this course)
 Function inside function
