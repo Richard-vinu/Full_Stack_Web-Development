@@ -1,5 +1,5 @@
 JavaScript Beginning to Mastery Syllabus :>
-https://youtu.be/chx9Rs41W6g
+https://youtu.be/chx9Rs41W6g <br>
 ```Javascript Object methods every developer should know```
 
 Shallow copy — Object.assign()<br>
