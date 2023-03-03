@@ -23,11 +23,4 @@ query {
   }
 }
 
-2 roundtrips, one single endpoint, one request, boom!
---------------------------------------------------
-GraphQL is developed by Facebook and the community, released in 2015,
-has many implementations in many languages
 
--- github.com/graphql
--- graphql.org
--- npm i graphql
