@@ -5,6 +5,9 @@ https://youtu.be/chx9Rs41W6g <br>
 
 https://www.scaler.com/topics/course/javascript-beginners
 
+
+
+This is link for the mastery in javascript
 ```Javascript Object methods every developer should know```
 
 Shallow copy — Object.assign()<br>
