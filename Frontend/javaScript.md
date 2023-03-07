@@ -7,7 +7,7 @@ https://www.scaler.com/topics/course/javascript-beginners
 
 
 
-This is link for the mastery in javascript
+This is link for the mastery in javascript =>
 https://www.youtube.com/watch?v=g7T23Xzys-A&ab_channel=JavaScriptMastery
 
 
