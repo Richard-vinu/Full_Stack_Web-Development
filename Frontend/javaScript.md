@@ -89,6 +89,17 @@ ES6 Rest Parameter
 
 SPLICE() :
 Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
+const arr = ["apple","basket","cat","dog","elephant"]
+let newArr=arr.slice(0,3)
+console.log(newArr);
+
+Slice();
+Copies elements from an array
+Returns them as a new array
+Doesn’t change the original array
+Starts slicing from … until given index: array.slice (from, until)
+Slice doesn’t include “until” index parameter
+Can be used both for arrays and strings
 
 SLICE() :
 Array’s slice() is used to extract a shallow copy of the elements from array into a new array. It will not mutate the array instead it will return a new array. This method accepts 2 arguments :
