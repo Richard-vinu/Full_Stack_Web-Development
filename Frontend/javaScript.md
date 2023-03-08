@@ -103,7 +103,12 @@ Can be used both for arrays and strings
 
 SLICE() :
 Array’s slice() is used to extract a shallow copy of the elements from array into a new array. It will not mutate the array instead it will return a new array. This method accepts 2 arguments :
-
+Used for adding/removing elements from array
+Returns an array of removed elements
+Changes the array
+For adding elements: array.splice (index, number of elements, element)
+For removing elements: array.splice (index, number of elements)
+Can only be used for arrays
 startIndex: Zero based index from which to start Extraction
 endIndex: Zero based index before which the extraction should end
 
