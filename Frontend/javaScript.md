@@ -84,8 +84,45 @@ Parameter Destructuring<br>
 Very brief intro to callback functions(covered in great detail , later in the course)<br>
 Functions returning Functions <br>
 
+Rest operator (...)
+
+The rest operator is used in function parameter definitions to allow a function to accept an indefinite number of arguments as an array. Here's an example:
+
+javascript
+Copy code
+function sum(...numbers) {
+  return numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+}
+
+console.log(sum(1, 2, 3)); // 6
+console.log(sum(1, 2, 3, 4, 5)); // 15
+In the example above, the sum function accepts an indefinite number of arguments using the rest operator ...numbers. The rest operator collects all the arguments passed into the function into an array called numbers. The reduce method is then used to sum up all the numbers in the array.
+
+
+
+
+
 
 ES6 Rest Parameter
+Rest operator (...)
+
+The rest operator is used in function parameter definitions to allow a function to accept an indefinite number of arguments as an array. Here's an example:
+
+javascript
+Copy code
+function sum(...numbers) {
+  return numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+}
+
+console.log(sum(1, 2, 3)); // 6
+console.log(sum(1, 2, 3, 4, 5)); // 15
+In the example above, the sum function accepts an indefinite number of arguments using the rest operator ...numbers. The rest operator collects all the arguments passed into the function into an array called numbers. The reduce method is then used to sum up all the numbers in the array.
+
+
+
+
+
+
 
 SPLICE() :
 Array’s splice() method is used to remove few elements, replace or add new elements in the array. It will mutate original array. This method accepts 3 arguments :
