@@ -102,6 +102,26 @@ In the example above, the sum function accepts an indefinite number of arguments
 
 
 
+Spread operator (...)
+
+The spread operator allows you to spread the elements of an iterable (such as an array) into a new array or function call. Here's an example of using the spread operator to concatenate two arrays:
+
+javascript
+Copy code
+const array1 = [1, 2, 3];
+const array2 = [4, 5, 6];
+
+const concatenatedArray = [...array1, ...array2];
+
+console.log(concatenatedArray); // [1, 2, 3, 4, 5, 6]
+
+
+
+
+
+
+
+
 
 ES6 Rest Parameter
 Rest operator (...)
