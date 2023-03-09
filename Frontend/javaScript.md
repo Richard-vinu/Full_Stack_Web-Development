@@ -118,7 +118,17 @@ console.log(sum(1, 2, 3, 4, 5)); // 15
 ```
 In the example above, the sum function accepts an indefinite number of arguments using the rest operator ...numbers. The rest operator collects all the arguments passed into the function into an array called numbers. The reduce method is then used to sum up all the numbers in the array.
 
+Here's the code example converted to markdown:
 
+The rest operator (...) is used in function parameter definitions to allow a function to accept an indefinite number of arguments as an array. Here's an example:
+
+function sum(...numbers) {
+  return numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+}
+
+console.log(sum(1, 2, 3)); // 6
+console.log(sum(1, 2, 3, 4, 5)); // 15
+In the example above, we define a function called sum that accepts an indefinite number of arguments using the rest operator ...numbers. The rest operator collects all the arguments passed into the function into an array called numbers. The reduce method is then used to sum up all the numbers in the array. We call the sum function twice with different numbers of arguments and log the results to the console. The first call to sum with 1, 2, 3 returns 6, and the second call to sum with 1, 2, 3, 4, 5 returns 15.
 
 
 
