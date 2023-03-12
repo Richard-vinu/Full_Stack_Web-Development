@@ -182,8 +182,8 @@ endIndex: Zero based index before which the extraction should end
 
 ChekoutThis=>  https://medium.com/@bhavesh.kankaria/array-splice-vs-slice-ac0307773912
 
+What is the Difference between Spread and Rest Operator in JavaScript?
 
-Conclusion
 Both spread and rest operators were introduced to JavaScript with ES 6, and both the operators are represented with triple dots (...).
 The spread operator spreads the values in an array or a string across one or more arguments.
 Rest operator allows us to pass an indefinite number of arguments to function by accumulating these several values into an array.
