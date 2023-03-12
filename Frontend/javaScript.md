@@ -180,9 +180,9 @@ startIndex: Zero based index from which to start Extraction
 endIndex: Zero based index before which the extraction should end
 
 
-ChekoutThis=>  https://medium.com/@bhavesh.kankaria/array-splice-vs-slice-ac0307773912
+ChekoutThis=>  https://medium.com/@bhavesh.kankaria/array-splice-vs-slice-ac0307773912  <br>
 
-What is the Difference between Spread and Rest Operator in JavaScript?
+Spread and Rest Operator in JavaScript?
 
 Both spread and rest operators were introduced to JavaScript with ES 6, and both the operators are represented with triple dots (...).
 The spread operator spreads the values in an array or a string across one or more arguments.
