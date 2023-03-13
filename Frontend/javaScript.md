@@ -189,3 +189,14 @@ The spread operator spreads the values in an array or a string across one or mor
 Rest operator allows us to pass an indefinite number of arguments to function by accumulating these several values into an array.
 Both spread and rest operators have the same syntax in JavaScript but they perform different functionalities.
 The spread operator in JavaScript expands values in arrays and strings into individual elements whereas, the rest operator puts the values of user-specified data into a JavaScript array.
+
+
+[JavaScript] List of do’s and don’ts in Javascript Development
+
+Class Name:
+
+Class names, interface names, typedef, and record names are all UpperCamelCase.
+These names are always nouns or noun phrases.
+example: ImmutableList.
+
+
