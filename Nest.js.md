@@ -1,14 +1,17 @@
+Here are a few CLI commands 
+
+
+
 npm i -g @nestjs/cli
 nest new project-name
+nest res g 'module_name'
 
-Alternatives
 Alternatively, to install the TypeScript starter project with Git:
-
 git clone https://github.com/nestjs/typescript-starter.git project
 cd project
 npm install
 
-nestJS start
+nest start
 
 What is NestJS used for?
 Nest. js uses TypeScript for type checking and provides an out-of-the-box software architecture for building and deploying testable, <br>
